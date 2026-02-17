@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/e-waste/static/css/main.9b7a09d2.css",
-    "main.js": "/e-waste/static/js/main.83c1cb76.js",
+    "main.css": "/e-waste/static/css/main.862b8b56.css",
+    "main.js": "/e-waste/static/js/main.0a7d76a9.js",
     "static/js/239.43d7458d.chunk.js": "/e-waste/static/js/239.43d7458d.chunk.js",
     "static/js/977.e2147d88.chunk.js": "/e-waste/static/js/977.e2147d88.chunk.js",
     "static/js/455.71775be0.chunk.js": "/e-waste/static/js/455.71775be0.chunk.js",
     "index.html": "/e-waste/index.html",
-    "main.9b7a09d2.css.map": "/e-waste/static/css/main.9b7a09d2.css.map",
-    "main.83c1cb76.js.map": "/e-waste/static/js/main.83c1cb76.js.map",
+    "main.862b8b56.css.map": "/e-waste/static/css/main.862b8b56.css.map",
+    "main.0a7d76a9.js.map": "/e-waste/static/js/main.0a7d76a9.js.map",
     "239.43d7458d.chunk.js.map": "/e-waste/static/js/239.43d7458d.chunk.js.map",
     "977.e2147d88.chunk.js.map": "/e-waste/static/js/977.e2147d88.chunk.js.map",
     "455.71775be0.chunk.js.map": "/e-waste/static/js/455.71775be0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b7a09d2.css",
-    "static/js/main.83c1cb76.js"
+    "static/css/main.862b8b56.css",
+    "static/js/main.0a7d76a9.js"
   ]
 }
